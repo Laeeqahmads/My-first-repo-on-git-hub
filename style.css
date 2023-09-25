@@ -1,0 +1,43 @@
+img{
+    width: 200px;
+    border: 2px solid white;
+    border-radius: 30px
+}
+
+h1,
+h3{
+    color:white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+p{
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+li{
+    color: white
+}
+body{
+    background-color:#171818;
+}
+address{
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+a{
+    color:#0e74e7 ;
+}
+th {
+    color: #000;
+    border: 2px solid #000; /* Set the border width, style, and color */
+    background-color: #f2f2f2; /* Add background color to headers */
+    padding: 8px; /* Add padding for better spacing */
+}
+td {
+    color: #000;
+    border: 2px solid #000; /* Set the border width, style, and color */
+    background-color: #f2f2f2; /* Add background color to headers */
+    padding: 8px; /* Add padding for better spacing */
+}
